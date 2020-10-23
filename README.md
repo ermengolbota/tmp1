@@ -6,4 +6,8 @@ Primera prova
 * Pere 
 * Maria
 * Joana
+* Pau
+* Martí
+
+Ja he posat l'html
 
